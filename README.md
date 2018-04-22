@@ -1,2 +1,2 @@
-# facets-image-scraper
-image scraper for facets.la
+# facets.la image scraper
+Downloads wallpapers from facets.la
